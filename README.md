@@ -12,7 +12,8 @@
 - ⚡ Fun fact **in the video games**
 
 <br>
-## Proyectos *bombitas*
+
+## Proyectos
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
