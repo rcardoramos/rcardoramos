@@ -5,11 +5,14 @@
 
 ## About me
 
+- ⭐ Github Star ⭐ 
+- 💻 Web developer
 - 🔭 I’m currently studying **Programación Web.**
-
 - 📫 How to reach me **rcardoramos@outlook.com**
-
 - ⚡ Fun fact **in the video games**
+
+<br>
+## Proyectos *bombitas*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
