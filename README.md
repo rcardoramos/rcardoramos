@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ricardo Ramos 👋 </h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://postimg.cc/wt6yNXdZ">
 
 - 🔭 I’m currently studying **Programación Web.**
 
