@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I'm Ricardo Ramos 👋 </h1>
 </div>
 <img src='https://i.postimg.cc/43czrP2f/Banner-de-Linked-In-Azul-Ilustrado-Tecnolog-a-1.png' border='0' alt='Banner-de-Linked-In-Azul-Ilustrado-Tecnolog-a-1'/></a>
-https://badgen.net/github/license/micromatch/micromatch 
 
+## About me
 
 - 🔭 I’m currently studying **Programación Web.**
 
