@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Ricardo Ramos 👋 </h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 </div>
-<img src="https://postimg.cc/wt6yNXdZ">
+<img src='https://i.postimg.cc/43czrP2f/Banner-de-Linked-In-Azul-Ilustrado-Tecnolog-a-1.png' border='0' alt='Banner-de-Linked-In-Azul-Ilustrado-Tecnolog-a-1'/></a>
 
 - 🔭 I’m currently studying **Programación Web.**
 
