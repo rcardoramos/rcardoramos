@@ -10,7 +10,6 @@
 - 🔭 I’m currently studying **Programación Web.**
 - 📫 How to reach me **rcardoramos@outlook.com**
 - ⚡ Fun fact **in the video games**
-
 <br>
 
 ## Proyectos
