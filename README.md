@@ -5,6 +5,12 @@
 
 ## 🙎🏻‍♂️ About me.
 
+I've completed several courses on front-end development, including a Professional Certificate in Front-End Development from Codeable. My coursework has covered topics such as responsive design, Bootstrap, functional programming, and version control with Git.
+
+🌱 I'm currently working on expanding my skillset to include advanced frameworks like React, and I'm always looking for ways to improve my skills and stay up-to-date with the latest best practices in front-end development.
+
+🔧 In my free time, I enjoy tinkering with personal projects and experimenting with new technologies. You can check out some of my work on this profile, or feel free to reach out to me if you have any questions or would like to collaborate on a project.
+
 - ⭐ Github Star ⭐ 
 - 💻 Web developer
 - 🔭 I’m currently studying **Programación Web.**
