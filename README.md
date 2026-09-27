@@ -4,16 +4,19 @@
 
 ### Frontend & Mobile Engineer
 
-Building scalable **web & mobile products** with React, TypeScript, Flutter and React Native — focused on clean architecture, performance and great UX.
+Building scalable, high-performance **web and mobile applications** with clean architecture, great UX, and AI-assisted development workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rcardoramos.github.io/portfolio3.0/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rcardo-ramos/)
+🌎 Lima, Peru · 💻 Frontend & Mobile Development
 
 </div>
 
 <p align="center">
-  <img src="https://i.postimg.cc/43czrP2f/Banner-de-Linked-In-Azul-Ilustrado-Tecnolog-a-1.png" alt="Ricardo Ramos - Frontend & Mobile Engineer" />
+  <img
+    src="https://i.postimg.cc/43czrP2f/Banner-de-Linked-In-Azul-Ilustrado-Tecnolog-a-1.png"
+    alt="Ricardo Ramos - Frontend & Mobile Engineer"
+  />
 </p>
+
 
 ---
 
