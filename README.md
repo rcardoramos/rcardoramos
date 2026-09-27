@@ -1,65 +1,225 @@
 <div align="center">
-  <h1>Hi, I'm Ricardo Ramos 👋</h1>
-  <p>Frontend & Mobile Engineer</p>
-  <p>Building scalable, high-performance web and mobile products with great UX and clean architecture.</p>
+
+# Hi, I'm Ricardo Ramos 👋
+
+### Frontend & Mobile Engineer
+
+Building scalable, high-performance **web and mobile applications** with clean architecture, great UX, and AI-assisted development workflows.
+
+🌎 Lima, Peru · 💻 Frontend & Mobile Development
+
 </div>
 
 <p align="center">
-  <img src="https://i.postimg.cc/43czrP2f/Banner-de-Linked-In-Azul-Ilustrado-Tecnolog-a-1.png" alt="Banner" />
+  <img
+    src="https://i.postimg.cc/43czrP2f/Banner-de-Linked-In-Azul-Ilustrado-Tecnolog-a-1.png"
+    alt="Ricardo Ramos - Frontend & Mobile Engineer"
+  />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-Frontend & Mobile Engineer with experience delivering production-ready applications in **fintech and healthcare environments**.
+I'm a **Frontend & Mobile Engineer** focused on building scalable, maintainable, and production-ready applications across web and mobile platforms.
 
-I specialize in building scalable interfaces using **React, TypeScript, React Native, and Flutter**, focusing on:
-- Scalable frontend architecture and reusable components  
-- Performance optimization and production stability  
-- UI/UX consistency across web and mobile platforms  
-- Clean code, testing, and maintainable systems  
+My main stack includes **React, TypeScript, React Native, Flutter, and Dart**, with experience working on products in **fintech, healthcare, enterprise systems, and mobile authentication solutions**.
 
-I’ve contributed to both **greenfield development and legacy modernization**, including migrations, performance improvements, and stabilization of critical production systems.
+I care about more than making interfaces work. I focus on:
 
-I enjoy working in product-driven teams where engineering decisions directly impact users and business outcomes.
+- 🏗️ Scalable frontend and mobile architecture
+- 📱 Cross-platform mobile development with Flutter and React Native
+- ⚡ Performance optimization and production stability
+- 🎨 Consistent UI/UX across web and mobile
+- 🧩 Reusable components and design systems
+- 🧪 Testing and maintainable code
+- 🔌 REST API integration and asynchronous workflows
+- 🔐 Authentication and secure application flows
+- 🤖 AI-assisted software engineering
+
+I've worked on both **greenfield products and legacy modernization**, contributing to migrations, redesigns, performance improvements, architecture decisions, and stabilization of production systems.
+
+---
+
+## 🚀 What I Work With
+
+### 🌐 Frontend
+
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+- Component-driven development
+- Responsive & accessible interfaces
+
+### 📱 Mobile
+
+- Flutter
+- Dart
+- React Native
+- Android
+- iOS
+- Cross-platform architecture
+- Native SDK integrations
+
+### 🏗️ Architecture & Engineering
+
+- Clean Architecture
+- MVVM
+- Cubit / BLoC
+- Repository Pattern
+- Atomic Design
+- Modular Architecture
+- Design Systems
+- State Management
+- REST APIs
+- Authentication Flows
+
+### 🧪 Testing & Quality
+
+- Jest
+- Unit Testing
+- Component Testing
+- Git
+- GitHub
+- Code Reviews
+- CI/CD Workflows
+
+### 🔧 Backend & Cloud
+
+- Node.js
+- REST APIs
+- Supabase
+- PostgreSQL
+- AWS Fundamentals
+- Authentication & Authorization
+- Realtime Integrations
+
+---
+
+## 🤖 AI-Assisted Engineering
+
+I actively integrate **Artificial Intelligence into my software development workflow** to improve productivity, code quality, analysis, and engineering decision-making.
+
+### AI Tools
+
+- GitHub Copilot
+- ChatGPT
+- Claude
+- Cursor
+- Gemini
+
+I use AI as an **engineering accelerator**, not as a replacement for software fundamentals.
+
+My workflow includes using AI for:
+
+- Code analysis and refactoring
+- Architecture exploration
+- Debugging complex issues
+- Test generation and validation
+- Technical documentation
+- Code reviews
+- Migration analysis
+- API integration support
+- Performance optimization
+- Technical research
+- Development workflow automation
+
+Every AI-assisted solution is reviewed against the project's:
+
+- Architecture
+- Business rules
+- Maintainability requirements
+- Security considerations
+- Coding standards
+- Testing strategy
+
+> AI should accelerate engineering decisions — not replace engineering judgment.
 
 ---
 
 ## 💼 Experience Highlights
 
-🚀 **Frontend & Mobile Development**
-- Built mobile applications in Flutter with full authentication flows and real-time data handling  
-- Developed React Native apps for healthcare systems with high user demand  
-- Integrated REST APIs and designed modular architectures for scalability  
+### 📱 Mobile Engineering
 
-⚡ **Performance & Stability**
-- Improved frontend performance by +35% using caching and lazy loading  
-- Resolved critical rendering and iframe issues after major migrations  
-- Stabilized React 19 + Vite production systems  
+- Built Flutter applications with authentication, offline capabilities, API integrations, and complex business workflows.
+- Developed cross-platform solutions using **Flutter, Dart, and React Native**.
+- Integrated native mobile SDKs and platform-specific functionality for Android and iOS.
+- Implemented modular architectures using patterns such as **Cubit, Repository, MVVM, and Clean Architecture**.
 
-🎨 **UI & Architecture**
-- Built reusable component systems with Storybook + Atomic Design  
-- Redesigned developer-facing portals improving UX and usability  
-- Implemented testing practices using Jest for reliability  
+### ⚡ Performance & Production Stability
+
+- Improved frontend performance by **35%+** through caching strategies, lazy loading, and rendering optimizations.
+- Resolved critical rendering and iframe issues after large-scale migrations.
+- Stabilized production applications using modern React and Vite environments.
+- Worked on modernization initiatives involving legacy systems and existing production codebases.
+
+### 🎨 Frontend Architecture & UI
+
+- Built reusable component systems with **Storybook and Atomic Design**.
+- Designed modular frontend architectures for scalability and maintainability.
+- Redesigned developer-facing and enterprise interfaces to improve usability.
+- Implemented responsive interfaces focused on consistent user experience.
+
+### 🔌 Integration & Application Flows
+
+- Integrated REST APIs across web and mobile applications.
+- Implemented authentication, authorization, onboarding, and validation flows.
+- Worked with asynchronous data handling and realtime application requirements.
+- Collaborated with Backend, QA, UX/UI, Product, and Engineering teams.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend:** React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind  
-**Mobile:** React Native · Flutter · Dart  
-**Architecture & Tools:** Storybook · Jest · Git · REST APIs  
-**Backend Integration:** Node.js · APIs · AWS basics  
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,flutter,dart,nodejs,html,css,tailwind,vite,jest,git,github,postgres,supabase,aws" />
+
+</p>
+
+### Core Technologies
+
+**Frontend**
+
+`React` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `Vite`
+
+**Mobile**
+
+`Flutter` · `Dart` · `React Native`
+
+**Architecture**
+
+`Clean Architecture` · `MVVM` · `Cubit/BLoC` · `Repository Pattern` · `Atomic Design`
+
+**Testing**
+
+`Jest` · `Unit Testing` · `Component Testing`
+
+**Backend & Data**
+
+`Node.js` · `REST APIs` · `PostgreSQL` · `Supabase`
+
+**Developer Tools**
+
+`Git` · `GitHub` · `Storybook` · `Postman` · `VS Code` · `Cursor`
+
+**AI Engineering**
+
+`GitHub Copilot` · `ChatGPT` · `Claude` · `Gemini` · `Cursor`
 
 ---
 
-## 📫 Contact
+## 🧠 Engineering Mindset
 
-- 📧 Email: rcardoramos@outlook.com  
-- 💼 LinkedIn: www.linkedin.com/in/rcardo-ramos/  
-- 🌐 Portfolio: Coming soon  
-
----
-
-⭐ Open to opportunities in **Frontend / Mobile / Full-Stack roles**
+```text
+Clean Architecture
+        ↓
+Maintainable Code
+        ↓
+Scalable Products
+        ↓
+Great User Experience
